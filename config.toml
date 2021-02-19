@@ -1,0 +1,5 @@
+baseURL = "http://kagansn.github.io/"
+languageCode = "tr-tr"
+title = "Kagan Sahan"
+publishDir = "docs"
+theme = "hugo-notepadium"
